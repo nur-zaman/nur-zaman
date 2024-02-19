@@ -6,12 +6,16 @@
   <a href="https://www.linkedin.com/in/nur-zaman1/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  🌐 <a href="https://nur-zaman.github.io/" target="_blank">https://nur-zaman.github.io/</a>
+  
+</p>
+<p align="center">
+🌐 <a href="https://nur-zaman.github.io/" target="_blank">https://nur-zaman.github.io/</a>
 </p>
 
-
-
+<p align="center">
 My Code::Stats history graph:
+</p>
+
 ![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/nur-zaman?bg_color=111&text_color=aaa&grid_color=333&language_colors=["3e4053","cc4b48","518fbd","ba7a2b","60bd68","f17cb0","b2912f","c71585","b276b2"])
 
 <!--

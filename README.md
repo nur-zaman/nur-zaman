@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-<p align="center">
-  <a href="https://discord.com/users/509649636584194048" target="_blank"><img src="https://cdn.rawgit.com/NNTin/discord-logo/f4333344/src/assets/animateddiscord.svg" alt="Discord Logo" width="50" height="50"></a>
   
 <!--
 </p>
